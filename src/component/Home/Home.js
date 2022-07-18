@@ -1,5 +1,6 @@
 import React from "react";
 import Navbar from "../Navbar/Navbar";
+import Contact from "./Contact";
 import CourseDetils from "./CourseDetils";
 import Hero from "./Hero";
 
@@ -9,6 +10,7 @@ const Home = () => {
       <Navbar />
       <Hero />
       <CourseDetils />
+      <Contact />
     </div>
   );
 };
