@@ -2,8 +2,8 @@ import React from "react";
 
 const Contact = () => {
   return (
-    <div className="bg-primary py-10 ">
-      <div className="container mx-auto flex justify-between flex-wrap gap-5 items-center">
+    <div className="bg-primary py-10 container mx-auto rounded-lg my-20">
+      <div className="flex justify-between flex-wrap gap-5 px-5 items-center">
         <div>
           <h2 className="text-neutral font-bold">Email Us</h2>
           <h3 className="text-neutral">
